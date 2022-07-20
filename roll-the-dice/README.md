@@ -1,6 +1,6 @@
 # Roll the dice
 
-This is a program you roll 2 dices. Might be useful for playing backgammon or other board game.
+This is a program where you roll randomly 2 dices. Might be useful for playing backgammon or other board game.
 
 <cener><img src="roll-the-dice.png" alt="Roll the dice"></center>
 
