@@ -2,7 +2,8 @@
 
 Here you can find the programs I wrote during learning React and some I wrote myself. Enjoy!!!
 
-* [Roll the dice](https://github.com/iosifidis/myReact/tree/main/roll-the-dice): It's a program you roll randomly 2 dices. Might be useful for playing backgammon or other board game.  
+* [Roll the dice](https://github.com/iosifidis/myReact/tree/main/roll-the-dice): It's a program where you roll randomly 2 dices. Might be useful for playing backgammon or other board game.  
+* [Flip a coin](https://github.com/iosifidis/myReact/tree/main/flip-coin): This is a program where you flip a coin.   
 
 
 Once you download the repository, in order to run the program you must follow these steps:
