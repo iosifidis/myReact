@@ -1,6 +1,7 @@
 # Flip a coin
 
-This is a program where you flip a coin.
+This is a program where you flip a coin.  
+You can find a [demo here](https://flip-my-coin.netlify.app/).
 
 <cener><img src="flip-coin.png" alt="Coin flip"></center>
 
